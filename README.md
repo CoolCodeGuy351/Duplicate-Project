@@ -1,1 +1,1 @@
-# Duplicate-Project
+# Group-Project
